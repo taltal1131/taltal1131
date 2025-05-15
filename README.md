@@ -1,25 +1,25 @@
-<h1 align="center">שלום, אני טל 👋</h1>
+<h1 align="center">Hi there, I'm Tal 👋</h1>
 
 <p align="center">
-מתמחה ב-DevOps • Docker • CI/CD • GitHub Actions • MongoDB
+DevOps enthusiast • Docker • CI/CD • GitHub Actions • MongoDB
 </p>
 
 ---
 
-## 🚀 פרויקטים בולטים
+## 🚀 Featured Projects
 
 - ⚙️ [devops-full-app](https://github.com/taltal1131/devops-full-app)  
-  אפליקציית פולסטאק עם Docker, Nginx, Node.js, MongoDB ו־CI/CD מלא
+  Fullstack application using Docker, Nginx, Node.js, MongoDB, and complete CI/CD
 
 - 🐳 [docker-devops-demo](https://github.com/taltal1131/docker-devops-demo)  
-  תרגול DevOps בסיסי עם Docker, Express.js ו־GitHub Actions
+  DevOps training project with Docker, Express.js, and GitHub Actions
 
 - 🔧 [fullstack-devops-docker-app](https://github.com/taltal1131/fullstack-devops-docker-app)  
-  אפליקציית פולסטאק עם Docker Compose, ניתוב Nginx וניטור בסיסי
+  Fullstack app using Docker Compose, Nginx reverse proxy, and basic monitoring
 
 ---
 
-## 🧰 טכנולוגיות שאני עובד איתן
+## 🧰 Technologies I work with
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge"/>
@@ -31,14 +31,14 @@
 
 ---
 
-## 📫 יצירת קשר
+## 📫 Contact Me
 
 - ✉️ Email: [talamsalemofficial@gmail.com](mailto:talamsalemofficial@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/talamsalem](https://linkedin.com/in/talamsalem)  
-- 🌐 אתר אישי / פורטפוליו: יעלה בהמשך 😉
+- 🌐 Portfolio: Coming soon 😉
 
 ---
 
 <p align="center">
-✨ תמיד לומד, תמיד בונה ✨
+✨ Always learning, always building ✨
 </p>
