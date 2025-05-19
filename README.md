@@ -1,6 +1,9 @@
 # 👋 Hi there, I'm Tal Amsalem
 
-🚀 **DevOps Enthusiast** | 🐳 Docker Lover | ⚙️ CI/CD Builder | ☁️ Cloud Native Learner
+![CI Status](https://github.com/taltal1131/devops-full-app/actions/workflows/docker-ci.yml/badge.svg?branch=main)
+![Profile Views](https://komarev.com/ghpvc/?username=taltal1131&label=Profile+Views)
+
+🚀 **DevOps Enthusiast** | 🐳 Docker Lover | ⚙️ CI/CD Builder | ☁️ Cloud Native Explorer
 
 ---
 
@@ -9,10 +12,11 @@
 I'm passionate about infrastructure, automation, and cloud-native development.  
 Currently focused on building production-ready fullstack apps using:
 
-- **Docker & Docker Compose**
-- **CI/CD pipelines with GitHub Actions**
-- **Microservice architecture**
-- **Deployments to Render & Netlify**
+- 🐳 Docker & Docker Compose
+- ⚙️ CI/CD with GitHub Actions
+- 🧱 Microservice architecture
+- ☁️ Deployments to Render & Netlify
+- 📦 Clean and testable pipelines
 
 ---
 
@@ -20,10 +24,10 @@ Currently focused on building production-ready fullstack apps using:
 
 | Project | Description |
 |--------|-------------|
-| 🔧 [**devops-full-app**](https://github.com/taltal1131/devops-full-app) | Fullstack app with Node.js, MongoDB, Nginx & CI/CD |
+| 🔧 [**devops-full-app**](https://github.com/taltal1131/devops-full-app) | Fullstack app with Node.js, MongoDB, Nginx & CI/CD with real healthchecks |
 | 🐳 [**docker-devops-demo**](https://github.com/taltal1131/docker-devops-demo) | Simple backend demo containerized with Docker |
 | 📦 [**fullstack-devops-docker-app**](https://github.com/taltal1131/fullstack-devops-docker-app) | Multi-container app with Nginx reverse proxy |
-| 🧱 [**multi-service-app**](https://github.com/taltal1131/multi-service-app) | Microservice system with Auth & API Gateway |
+| 🧱 [**multi-service-app**](https://github.com/taltal1131/multi-service-app) | Microservice system with Auth, API Gateway, and MongoDB |
 
 ---
 
@@ -34,8 +38,8 @@ Currently focused on building production-ready fullstack apps using:
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat-square)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat-square)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
-![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white&style=flat-square)
+![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square)
 
 ---
 
@@ -52,7 +56,16 @@ Currently focused on building production-ready fullstack apps using:
 
 - ✉️ **Email:** [talamsalemofficial@gmail.com](mailto:talamsalemofficial@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/talamsalem](https://linkedin.com/in/talamsalem)
-- 🌐 **Portfolio:** _Coming soon_
+- 🌐 **Portfolio Website:** _Coming soon_
+
+---
+
+## 🔭 Currently Learning
+
+- 📈 Monitoring with Prometheus & Grafana
+- 🧪 CI test coverage (Jest + coverage badge)
+- ☁️ Infrastructure as Code (Terraform basics)
+- 🔐 Secret Management & Docker Image Scanning
 
 ---
 
