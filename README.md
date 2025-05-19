@@ -12,11 +12,17 @@
 I'm passionate about infrastructure, automation, and cloud-native development.  
 Currently focused on building production-ready fullstack apps using:
 
-- 🐳 Docker & Docker Compose
-- ⚙️ CI/CD with GitHub Actions
-- 🧱 Microservice architecture
-- ☁️ Deployments to Render & Netlify
-- 📦 Clean and testable pipelines
+- 🐳 Docker & Docker Compose  
+- ⚙️ CI/CD with GitHub Actions  
+- 🧱 Microservice architecture  
+- ☁️ Deployments to Render & Netlify  
+- 📦 Clean and testable pipelines  
+
+---
+
+## 🔗 Live Projects
+
+- ✅ [Backend Healthcheck (Render)](https://your-app-name.onrender.com/api/health)
 
 ---
 
@@ -62,10 +68,10 @@ Currently focused on building production-ready fullstack apps using:
 
 ## 🔭 Currently Learning
 
-- 📈 Monitoring with Prometheus & Grafana
-- 🧪 CI test coverage (Jest + coverage badge)
-- ☁️ Infrastructure as Code (Terraform basics)
-- 🔐 Secret Management & Docker Image Scanning
+- 📈 Monitoring with Prometheus & Grafana  
+- 🧪 CI test coverage (Jest + coverage badge)  
+- ☁️ Infrastructure as Code (Terraform basics)  
+- 🔐 Secret Management & Docker Image Scanning  
 
 ---
 
