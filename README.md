@@ -7,6 +7,12 @@
 
 ---
 
+## 🔗 Live Projects
+
+- ✅ [Backend Healthcheck (Render)](https://devops-backend-35w9.onrender.com/api/health) — Live CI-monitored endpoint
+
+---
+
 ## 🏗️ About Me
 
 I'm passionate about infrastructure, automation, and cloud-native development.  
@@ -17,12 +23,6 @@ Currently focused on building production-ready fullstack apps using:
 - 🧱 Microservice architecture  
 - ☁️ Deployments to Render & Netlify  
 - 📦 Clean and testable pipelines  
-
----
-
-## 🔗 Live Projects
-
-- ✅ [Backend Healthcheck (Render)](https://your-app-name.onrender.com/api/health)
 
 ---
 
