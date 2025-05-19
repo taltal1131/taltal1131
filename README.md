@@ -62,7 +62,6 @@ Currently focused on building production-ready fullstack apps using:
 
 - ✉️ **Email:** [talamsalemofficial@gmail.com](mailto:talamsalemofficial@gmail.com)
 - 💼 **LinkedIn:** [linkedin.com/in/talamsalem](https://linkedin.com/in/talamsalem)
-- 🌐 **Portfolio Website:** _Coming soon_
 
 ---
 
