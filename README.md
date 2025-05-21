@@ -9,7 +9,8 @@
 
 ## 🔗 Live Projects
 
-- ✅ [Backend Healthcheck (Render)](https://devops-backend-35w9.onrender.com/api/health) — Live CI-monitored endpoint
+- ✅ [Backend Healthcheck (Render)](https://devops-backend-35w9.onrender.com/api/health) — Live CI-monitored endpoint  
+- 🔄 Auto-deployed from [devops-full-app](https://github.com/taltal1131/devops-full-app)
 
 ---
 
@@ -30,10 +31,10 @@ Currently focused on building production-ready fullstack apps using:
 
 | Project | Description |
 |--------|-------------|
-| 🔧 [**devops-full-app**](https://github.com/taltal1131/devops-full-app) | Fullstack app with Node.js, MongoDB, Nginx & CI/CD with real healthchecks |
-| 🐳 [**docker-devops-demo**](https://github.com/taltal1131/docker-devops-demo) | Simple backend demo containerized with Docker |
-| 📦 [**fullstack-devops-docker-app**](https://github.com/taltal1131/fullstack-devops-docker-app) | Multi-container app with Nginx reverse proxy |
-| 🧱 [**multi-service-app**](https://github.com/taltal1131/multi-service-app) | Microservice system with Auth, API Gateway, and MongoDB |
+| 🔧 [**devops-full-app**](https://github.com/taltal1131/devops-full-app) | Fullstack app with Node.js, Docker, Nginx & CI/CD (tested and deployed on Render) |
+| 🐳 [**docker-devops-demo**](https://github.com/taltal1131/docker-devops-demo) | Minimal backend containerized using Docker |
+| 📦 [**fullstack-devops-docker-app**](https://github.com/taltal1131/fullstack-devops-docker-app) | Multi-container app with reverse proxy setup |
+| 🧱 [**multi-service-app**](https://github.com/taltal1131/multi-service-app) | Microservices system with auth & gateway |
 
 ---
 
@@ -68,7 +69,7 @@ Currently focused on building production-ready fullstack apps using:
 ## 🔭 Currently Learning
 
 - 📈 Monitoring with Prometheus & Grafana  
-- 🧪 CI test coverage (Jest + coverage badge)  
+- 🧪 Test coverage (Jest + codecov badge)  
 - ☁️ Infrastructure as Code (Terraform basics)  
 - 🔐 Secret Management & Docker Image Scanning  
 
