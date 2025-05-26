@@ -10,6 +10,7 @@
 ## 🔗 Live Projects
 
 - ✅ [Backend Healthcheck (Render)](https://devops-backend-35w9.onrender.com/api/health) — Live CI-monitored endpoint  
+- ✅ [Cloud App (Render)](https://devops-cloud-project.onrender.com/) — Simple Node.js Express App  
 - 🔄 Auto-deployed from [devops-full-app](https://github.com/taltal1131/devops-full-app)
 
 ---
@@ -35,6 +36,16 @@ Currently focused on building production-ready fullstack apps using:
 | 🐳 [**docker-devops-demo**](https://github.com/taltal1131/docker-devops-demo) | Minimal backend containerized using Docker |
 | 📦 [**fullstack-devops-docker-app**](https://github.com/taltal1131/fullstack-devops-docker-app) | Multi-container app with reverse proxy setup |
 | 🧱 [**multi-service-app**](https://github.com/taltal1131/multi-service-app) | Microservices system with auth & gateway |
+| 🌐 [**devops-cloud-project**](https://github.com/taltal1131/devops-cloud-project) | Simple Node.js app deployed with Docker to Render |
+
+---
+
+## 📡 Highlighted Deployments
+
+| App | URL | Health Check |
+|-----|-----|--------------|
+| Cloud Project | [🌐 Open App](https://devops-cloud-project.onrender.com/) | ✅ [Check](https://devops-cloud-project.onrender.com/health) |
+| Backend API | [🌐 Open API](https://devops-backend-35w9.onrender.com/) | ✅ [Check](https://devops-backend-35w9.onrender.com/api/health) |
 
 ---
 
