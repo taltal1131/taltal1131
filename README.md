@@ -10,9 +10,8 @@
 
 ## 🔗 Live Projects
 
-- ✅ [Backend Healthcheck (Render)](https://devops-backend-35w9.onrender.com/api/health) — Live CI-monitored endpoint  
 - ✅ [Cloud App (Render)](https://devops-cloud-project.onrender.com/) — Simple Node.js Express App  
-  [![Live](https://img.shields.io/badge/Live-Render-brightgreen?logo=render&label=Status)](https://devops-cloud-project.onrender.com/)
+- ✅ [Backend Healthcheck (Render)](https://devops-backend-35w9.onrender.com/api/health)  
 - 🔄 Auto-deployed from [devops-full-app](https://github.com/taltal1131/devops-full-app)
 
 ---
@@ -35,9 +34,9 @@ Currently focused on building production-ready fullstack apps using:
 | Project | Description |
 |--------|-------------|
 | 🔧 [**devops-full-app**](https://github.com/taltal1131/devops-full-app) | Fullstack app with Node.js, Docker, Nginx & CI/CD (tested and deployed on Render) |
+| 🧱 [**multi-service-app**](https://github.com/taltal1131/multi-service-app) | Microservices system with API Gateway, Auth, and Services |
 | 🐳 [**docker-devops-demo**](https://github.com/taltal1131/docker-devops-demo) | Minimal backend containerized using Docker |
 | 📦 [**fullstack-devops-docker-app**](https://github.com/taltal1131/fullstack-devops-docker-app) | Multi-container app with reverse proxy setup |
-| 🧱 [**multi-service-app**](https://github.com/taltal1131/multi-service-app) | Microservices system with auth & gateway |
 | 🌐 [**devops-cloud-project**](https://github.com/taltal1131/devops-cloud-project) | Simple Node.js app deployed with Docker to Render |
 
 ---
@@ -60,6 +59,8 @@ Currently focused on building production-ready fullstack apps using:
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white&style=flat-square)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?logo=render&logoColor=white&style=flat-square)
 ![Netlify](https://img.shields.io/badge/-Netlify-00C7B7?logo=netlify&logoColor=white&style=flat-square)
+![Terraform](https://img.shields.io/badge/-Terraform-623CE4?logo=terraform&logoColor=white&style=flat-square)
+![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?logo=prometheus&logoColor=white&style=flat-square)
 
 ---
 
