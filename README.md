@@ -1,5 +1,6 @@
 # 👋 Hi there, I'm Tal Amsalem
 
+[![Live on Render](https://img.shields.io/badge/Live-Render-brightgreen?logo=render&label=Cloud%20Status)](https://devops-cloud-project.onrender.com/)
 ![CI Status](https://github.com/taltal1131/devops-full-app/actions/workflows/docker-ci.yml/badge.svg?branch=main)
 ![Profile Views](https://komarev.com/ghpvc/?username=taltal1131&label=Profile+Views)
 
@@ -11,6 +12,7 @@
 
 - ✅ [Backend Healthcheck (Render)](https://devops-backend-35w9.onrender.com/api/health) — Live CI-monitored endpoint  
 - ✅ [Cloud App (Render)](https://devops-cloud-project.onrender.com/) — Simple Node.js Express App  
+  [![Live](https://img.shields.io/badge/Live-Render-brightgreen?logo=render&label=Status)](https://devops-cloud-project.onrender.com/)
 - 🔄 Auto-deployed from [devops-full-app](https://github.com/taltal1131/devops-full-app)
 
 ---
