@@ -4,28 +4,27 @@
 ![CI Status](https://github.com/taltal1131/devops-full-app/actions/workflows/docker-ci.yml/badge.svg?branch=main)
 ![Profile Views](https://komarev.com/ghpvc/?username=taltal1131&label=Profile+Views)
 
-🚀 **DevOps Enthusiast** | 🐳 Docker Lover | ⚙️ CI/CD Builder | ☁️ Cloud Native Explorer
+🚀 **DevOps Engineer** | 🐳 Docker Specialist | ⚙️ CI/CD Automation | ☁️ Cloud Infrastructure
+
+---
+
+## 💼 What I Bring
+
+- 6+ years of experience in enterprise IT systems and infrastructure  
+- Proven hands-on DevOps projects with production-ready deployment  
+- Strong background in Linux, networking, and system reliability  
+- Skilled in Docker, GitHub Actions, CI/CD, monitoring, and cloud tools  
+- Focused on automation, scalability, and clean deployment pipelines  
 
 ---
 
 ## 🔗 Live Projects
 
-- ✅ [Cloud App (Render)](https://devops-cloud-project.onrender.com/) — Simple Node.js Express App  
-- ✅ [Backend Healthcheck (Render)](https://devops-backend-35w9.onrender.com/api/health)  
+- ✅ [Cloud App (Frontend)](https://devops-cloud-project.onrender.com/)  
+   *Dockerized Node.js app with CI/CD to Render*  
+- ✅ [Backend API (Healthcheck)](https://devops-backend-35w9.onrender.com/api/health)  
+   *Connected via Docker Compose to MongoDB*  
 - 🔄 Auto-deployed from [devops-full-app](https://github.com/taltal1131/devops-full-app)
-
----
-
-## 🏗️ About Me
-
-I'm passionate about infrastructure, automation, and cloud-native development.  
-Currently focused on building production-ready fullstack apps using:
-
-- 🐳 Docker & Docker Compose  
-- ⚙️ CI/CD with GitHub Actions  
-- 🧱 Microservice architecture  
-- ☁️ Deployments to Render & Netlify  
-- 📦 Clean and testable pipelines  
 
 ---
 
@@ -33,20 +32,11 @@ Currently focused on building production-ready fullstack apps using:
 
 | Project | Description |
 |--------|-------------|
-| 🔧 [**devops-full-app**](https://github.com/taltal1131/devops-full-app) | Fullstack app with Node.js, Docker, Nginx & CI/CD (tested and deployed on Render) |
-| 🧱 [**multi-service-app**](https://github.com/taltal1131/multi-service-app) | Microservices system with API Gateway, Auth, and Services |
-| 🐳 [**docker-devops-demo**](https://github.com/taltal1131/docker-devops-demo) | Minimal backend containerized using Docker |
-| 📦 [**fullstack-devops-docker-app**](https://github.com/taltal1131/fullstack-devops-docker-app) | Multi-container app with reverse proxy setup |
-| 🌐 [**devops-cloud-project**](https://github.com/taltal1131/devops-cloud-project) | Simple Node.js app deployed with Docker to Render |
-
----
-
-## 📡 Highlighted Deployments
-
-| App | URL | Health Check |
-|-----|-----|--------------|
-| Cloud Project | [🌐 Open App](https://devops-cloud-project.onrender.com/) | ✅ [Check](https://devops-cloud-project.onrender.com/health) |
-| Backend API | [🌐 Open API](https://devops-backend-35w9.onrender.com/) | ✅ [Check](https://devops-backend-35w9.onrender.com/api/health) |
+| 🔧 [**devops-full-app**](https://github.com/taltal1131/devops-full-app) | Fullstack Dockerized app (Node.js + Nginx + MongoDB) with CI/CD pipeline via GitHub Actions and deployment to Render |
+| 🧱 [**multi-service-app**](https://github.com/taltal1131/multi-service-app) | Microservices architecture with API Gateway, Auth service, and scalable backend |
+| 🐳 [**docker-devops-demo**](https://github.com/taltal1131/docker-devops-demo) | Minimal backend project demonstrating Docker containerization and service logic |
+| 📦 [**fullstack-devops-docker-app**](https://github.com/taltal1131/fullstack-devops-docker-app) | Multi-container system using reverse proxy and service discovery |
+| 🌐 [**devops-cloud-project**](https://github.com/taltal1131/devops-cloud-project) | Node.js service deployed to cloud with Docker and GitHub Actions |
 
 ---
 
@@ -64,6 +54,23 @@ Currently focused on building production-ready fullstack apps using:
 
 ---
 
+## 📜 Certifications
+
+- DevOps Bootcamp – John Bryce (2025, hands-on focused)  
+- Information Security – John Bryce (2023)  
+- CAST – Certified Associate in Software Testing – Eduonix (2021)
+
+---
+
+## 📡 Highlighted Deployments
+
+| App | URL | Health Check |
+|-----|-----|--------------|
+| Cloud Frontend | [🌐 Open](https://devops-cloud-project.onrender.com/) | ✅ [Health](https://devops-cloud-project.onrender.com/health) |
+| Backend API | [🌐 Open](https://devops-backend-35w9.onrender.com/) | ✅ [Health](https://devops-backend-35w9.onrender.com/api/health) |
+
+---
+
 ## 📊 GitHub Stats
 
 <p align="center">
@@ -75,18 +82,14 @@ Currently focused on building production-ready fullstack apps using:
 
 ## 📫 Contact Me
 
-- ✉️ **Email:** [talamsalemofficial@gmail.com](mailto:talamsalemofficial@gmail.com)
-- 💼 **LinkedIn:** [linkedin.com/in/talamsalem](https://linkedin.com/in/talamsalem)
+- ✉️ [talamsalemofficial@gmail.com](mailto:talamsalemofficial@gmail.com)  
+- 💼 [linkedin.com/in/talamsalem](https://linkedin.com/in/talamsalem)
 
 ---
 
 ## 🔭 Currently Learning
 
 - 📈 Monitoring with Prometheus & Grafana  
-- 🧪 Test coverage (Jest + codecov badge)  
-- ☁️ Infrastructure as Code (Terraform basics)  
-- 🔐 Secret Management & Docker Image Scanning  
-
----
-
-> “Success usually comes to those who are too busy to be looking for it.”
+- 🧪 Test coverage (Jest + codecov)  
+- ☁️ Infrastructure as Code (Terraform)  
+- 🔐 Secret Management & Image Scanning  
